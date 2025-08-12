@@ -3,3 +3,9 @@ out/
 *.o
 *.exe
 *.zip
+bin/
+out/
+.vscode/
+*.o
+*.exe
+*.zip
