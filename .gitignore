@@ -1,0 +1,5 @@
+bin/
+out/
+*.o
+*.exe
+*.zip
